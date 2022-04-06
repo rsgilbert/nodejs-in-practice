@@ -6,3 +6,4 @@ mvcd.controllers.log();
 mvcd.models();
 
 console.log(require.extensions)
+
